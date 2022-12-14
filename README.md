@@ -22,6 +22,7 @@ This is a powerful twitter bot for discord. It allows you to follow up to 5000 T
 Installation can be quick and easy through Heroku (one-click deployment, [see video](https://www.youtube.com/watch?v=NwPcXBvStSI)). A multi-architecture Docker image is also provided for the Docker people.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[https://heroku.com/deploy](https://github.com/gkping123/discord-twitter-bot)
 
 Installations have been written for:
 
